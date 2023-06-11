@@ -1,1 +1,1 @@
-!streamlit run app.py --server.port 80
+streamlit run app.py --server.port 80
