@@ -1,4 +1,13 @@
 
 nltk==3.7
-
+keras==2.11.0
 streamlit==1.8.1
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-datasets==4.8.3
+tensorflow-estimator==2.11.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.30.0
+tensorflow-metadata==1.12.0
