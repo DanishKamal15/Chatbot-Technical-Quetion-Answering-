@@ -202,11 +202,7 @@ kaggle==1.5.13
 kaleido==0.2.1
 keras==2.11.0
 Kivy==2.1.0
-kivy-deps.angle==0.3.2
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
-kiwisolver==1.4.2
+
 korean-lunar-calendar==0.3.1
 lambdaprompt==0.3.5
 langcodes==3.3.0
